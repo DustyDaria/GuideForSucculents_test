@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cactus_array">
+        <item>Нотокактус</item>
+        <item>Ребуция</item>
+        <item>Эпифиллум</item>
+        <item>Цереус</item>
+        <item>Рипсалис</item>
+        <item>Маммилярии</item>
+        <item>Астрофитумы</item>
+        <item>Лофофора</item>
+        <item>Цефалоцереусы</item>
+        <item>Рипсалидопсис</item>
+    </string-array>
+
+    <string-array name="haworthia_array">
+        <item>Аттенуата</item>
+        <item>Полосатая</item>
+        <item>Жемчужная</item>
+        <item>Рейнвардта</item>
+        <item>Лимолистная</item>
+        <item>Хавортия Ретуза</item>
+        <item>Купера</item>
+        <item>Ладьевидная</item>
+        <item>Извилистая</item>
+        <item>Клейкая</item>
+    </string-array>
+
+    <string-array name="echeveria_array">
+        <item>Агавовидная эхеверия echeveria agavoides</item>
+        <item>Родственная эхеверия affinis</item>
+        <item>Изящная эхеверия echeveria elegans</item>
+        <item>Эхеверия Деренберга echeveria derenbergii</item>
+        <item>Горбатоцветковая эхеверия gibbiflora</item>
+        <item>Эхеверия Лау Lauii</item>
+        <item>Блестящая эхеверия</item>
+        <item>Щетинистая эхеверия echeveria Setosa</item>
+        <item>Эхеверия Шавиана</item>
+        <item>Эхеверия Жемчужина Нюрберга Echeveria Perle von Nurnberg</item>
+    </string-array>
+
+    <string-array name="aloe_array">
+        <item>Алоэ остистое (аристата)</item>
+        <item>Космо</item>
+        <item>Алоэ пёстрое</item>
+        <item>Приземистое</item>
+        <item>Алоэ Рауха</item>
+        <item>Сорт Donnie</item>
+        <item>Сорт Snow flake</item>
+        <item>Алое складчатое</item>
+        <item>Алоэ ежовое</item>
+        <item>Многолистное или спиральное</item>
+    </string-array>
+
+    <string-array name="recommendation_array">
+        <item>Рекомендация1</item>
+        <item>Рекомендация2</item>
+        <item>Рекомендация3</item>
+        <item>Рекомендация4</item>
+        <item>Рекомендация5</item>
+        <item>Рекомендация6</item>
+        <item>Рекомендация7</item>
+        <item>Рекомендация8</item>
+        <item>Рекомендация9</item>
+        <item>Рекомендация10</item>
+    </string-array>
+
+
+</resources>

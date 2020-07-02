@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_cactus"
+            android:icon="@drawable/ic_menu_cactus"
+            android:title="@string/menu_cactus" />
+        <item
+            android:id="@+id/nav_haworthia"
+            android:icon="@drawable/ic_menu_haworthia"
+            android:title="@string/menu_haworthia" />
+        <item
+            android:id="@+id/nav_echeveria"
+            android:icon="@drawable/ic_menu_echeveria"
+            android:title="@string/menu_echeveria" />
+        <item
+            android:id="@+id/nav_aloe"
+            android:icon="@drawable/ic_menu_aloe"
+            android:title="@string/menu_aloe" />
+    </group>
+
+    <item android:title="Разное">
+        <menu>
+            <item
+                android:id="@+id/nav_recommendation"
+                android:icon="@drawable/ic_menu_recommendation"
+                android:title="@string/menu_recommendation" />
+            <item
+                android:id="@+id/nav_gallery"
+                android:icon="@drawable/ic_menu_gallery"
+                android:title="@string/menu_gallery" />
+        </menu>
+    </item>
+</menu>
